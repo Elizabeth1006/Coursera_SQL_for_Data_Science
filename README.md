@@ -8,3 +8,6 @@ In the second part of the assignment, you are asked to come up with your own inf
 The entity relationship (ER) diagram below, should help familiarize you with the design of the Yelp Dataset provided for this peer review activity.
 
 ![hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram](https://github.com/Elizabeth1006/Coursera_SQL_for_Data_Science/assets/118045058/5427a592-9477-422e-8e9c-9b2331f6f15a)
+
+## Link
+https://docs.google.com/document/d/1J2LSxvJbwv6rM5HLbLT8gdidsJ0Ag2AnWrS0AfceVIo/edit
