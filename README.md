@@ -11,5 +11,4 @@ The entity relationship (ER) diagram below, should help familiarize you with the
 
 ## Assignment
 
-[Role Play.pdf](https://github.com/Elizabeth1006/Coursera_SQL_for_Data_Science/files/12482588/Role.Play.pdf)
 
