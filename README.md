@@ -10,5 +10,6 @@ The entity relationship (ER) diagram below, should help familiarize you with the
 ![hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram](https://github.com/Elizabeth1006/Coursera_SQL_for_Data_Science/assets/118045058/5427a592-9477-422e-8e9c-9b2331f6f15a)
 
 ## Assignment
+[Role.Play.pdf](https://github.com/Elizabeth1006/Coursera_SQL_for_Data_Science/files/12482602/Role.Play.pdf)
 
 
