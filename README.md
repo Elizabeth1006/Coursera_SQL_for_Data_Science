@@ -4,6 +4,6 @@ This is a 2-part assignment. In the first part, you are asked a series of questi
 
 In the second part of the assignment, you are asked to come up with your own inferences and analysis of the data for a particular question you want to answer. You will be required to prepare the dataset for the analysis you choose to do. As with the first part, you will be graded, in part, on how easy your code is to read, so use proper formatting and comments to illustrate your intent as required.
 
-##Yelp Dataset ER Diagram
+## Yelp Dataset ER Diagram
 The entity relationship (ER) diagram below, should help familiarize you with the design of the Yelp Dataset provided for this peer review activity.
 
